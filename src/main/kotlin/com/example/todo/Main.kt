@@ -118,7 +118,6 @@ fun main() {
             }
             7 -> {
                 return
-                println("\n\n")
             }
 
             else -> {
